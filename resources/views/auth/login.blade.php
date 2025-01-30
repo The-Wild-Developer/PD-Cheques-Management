@@ -40,12 +40,12 @@
             <div class="card-body d-flex flex-column h-100 gap-4">
 
                 <div class="auth-brand text-center text-lg-start">
-                    <a href="/" class="logo-dark">
+                    {{-- <a href="/" class="logo-dark">
                         <span><img src="/assets/images/zynolo-white.png" alt="logo" width="250"></span>
                     </a>
                     <a href="/" class="logo-light">
                         <span><img src="/assets/images/zynolo-white.png" alt="logo" width="20"></span>
-                    </a>
+                    </a> --}}
                 </div>
 
                 <div class="my-auto">
